@@ -1,0 +1,14 @@
+Neste diretório, você deve adicionar as seguintes imagens:
+
+1. kid-coding.png - Imagem de uma criança programando para a seção hero
+2. metodologia.png - Imagem ilustrativa da metodologia de ensino
+3. parent1.png - Foto de um pai para depoimento
+4. parent2.png - Foto de uma mãe para depoimento
+5. kid1.png - Foto de uma criança para depoimento
+
+Você pode encontrar imagens gratuitas em sites como:
+- Unsplash (https://unsplash.com)
+- Pexels (https://pexels.com)
+- Freepik (https://freepik.com)
+
+Certifique-se de usar imagens com licença adequada para uso comercial.
